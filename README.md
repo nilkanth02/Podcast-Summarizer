@@ -39,7 +39,7 @@ To use this project, you’ll need to install the required dependencies and set 
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/yourusername/podcast-summarizer.git
+    git clone https://github.com/nilkanth002/podcast-summarizer.git
     cd podcast-summarizer
     ```
 
